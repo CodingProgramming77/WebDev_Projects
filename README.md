@@ -1,1 +1,1 @@
-# WebDev_Projects
+# HTML CSS JavaScript Projects
